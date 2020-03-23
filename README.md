@@ -14,6 +14,13 @@ Seller's market is customer focused. We try to give the customer exactly what he
 
 Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the __entire customer experience__.
 
+#### 3 Principles
+1. Customer value
+2. Differentiation
+3. Segmenation, Targeting and positioning.
+
+Product, place, promotion and price = market.
+
 #### My Own Notes
 But the kind of product that I try to build is not much customer focused. 
 
