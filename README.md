@@ -10,7 +10,7 @@ Two types of markets:
 | 2. | We try to give the best we can to the customer and try to reduce prices. | We try to give the customer exactly what he needs and charge premiums. |
 | 3. | Persuade the customer to want what the product offers. | Persuade the company to offer what the customer wants. |
 
-Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the entire customer experience.
+Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the __entire customer experience__.
 
 #### My Own Notes
 But the kind of product that I try to build is not much customer focused. 
