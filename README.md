@@ -9,7 +9,7 @@ Buyer's market is product focused. We try to give the best we can to the custome
 #### Seller's market
 Seller's market is customer focused. We try to give the customer exactly what he needs and charge premiums.
 
-![Marketing -- orientations](https://i.imgur.com/32Zvqqa.png)
+![Marketing -- orientations](https://i.imgur.com/uuWF5sP.png)
 
 
 Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the __entire customer experience__.
