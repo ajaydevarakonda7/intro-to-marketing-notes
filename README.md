@@ -8,7 +8,7 @@ Two types of markets:
 |------|----------------|-----------------|
 | 1. | Product focused | Customer focused |
 | 2. | We try to give the best we can to the customer and try to reduce prices. | We try to give the customer exactly what he needs and charge premiums. |
-| 3. | |  |
+| 3. | Persuade the customer what the product offers. | Persuade the company to offer what the customer wants. |
 
 Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the entire customer experience.
 
