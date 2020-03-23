@@ -13,7 +13,7 @@ Two types of markets:
 Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the entire customer experience.
 
 #### My Own Notes
-But the kind of product that I try to build is not much customer focused, may be because I am trying to build a product which in my idea is a not built one. 
+But the kind of product that I try to build is not much customer focused. 
 
 She also talks about connected community. I do not believe it would be as effective as direct word of mouth. But I've seen some people give advice about some products if they work really well.
 
