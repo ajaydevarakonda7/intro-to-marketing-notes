@@ -19,6 +19,7 @@ Try to please every single customer and you'll go out of business. Marketer has 
 2. Differentiation
 3. Segmenation, Targeting and positioning.
 
+#### 4 P's principles
 Product, place, promotion and price = market.
 
 #### My Own Notes
