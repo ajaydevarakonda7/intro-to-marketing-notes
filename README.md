@@ -1,8 +1,6 @@
 # Introduction to marketing
 
-## Marketing 101
-
-### Building strong brands
+## Building strong brands
 Marketing is the study of an exchange(a market). 
 
 Two types of markets:
@@ -10,9 +8,13 @@ Two types of markets:
 |------|----------------|-----------------|
 | 1. | Product focused | Customer focused |
 | 2. | We try to give the best we can to the customer and try to reduce prices. | We try to give the customer exactly what he needs and charge premiums. |
-| 3. | | |
+| 3. | |  |
 
-Try to please every single customer and you'll go out of business.  
+Try to please every single customer and you'll go out of business. Marketer has to be transparent, authentic and has to consider the entire customer experience.
 
-### Notes
-But the kind of 
+#### My Own Notes
+But the kind of product that I try to build is not much customer focused, may be because I am trying to build a product which in my idea is a not built one. 
+
+She also talks about connected community. I do not believe it would be as effective as direct word of mouth. But I've seen some people give advice about some products if they work really well.
+
+
